@@ -11,7 +11,7 @@ function App() {
     setCounter(counter+1);
   }
   let deleteValue=()=>{
-    setCounter(counter-1); 
+    setCounter(counter+1); 
   }
 
   return (
